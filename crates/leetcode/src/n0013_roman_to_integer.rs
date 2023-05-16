@@ -1,4 +1,4 @@
-//! https://leetcode.com/problems/roman-to-integer/
+//! <https://leetcode.com/problems/roman-to-integer/>
 
 use Roman::*;
 
@@ -104,7 +104,8 @@ pub fn roman_to_int(s: String) -> i32 {
     int
 }
 
-fn main() {
+#[test]
+fn test() {
     assert!(roman_to_int("III".into()) == 3);
     assert!(roman_to_int("LVIII".into()) == 58);
     assert!(roman_to_int("MCMXCIV".into()) == 1994);
