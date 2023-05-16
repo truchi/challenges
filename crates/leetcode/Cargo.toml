@@ -8,4 +8,8 @@ edition.workspace = true
 name = "roman_to_integer"
 path = "src/roman_to_integer/main.rs"
 
+[[bin]]
+name = "palindrome_linked_list"
+path = "src/palindrome_linked_list/main.rs"
+
 [dependencies]
