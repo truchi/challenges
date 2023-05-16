@@ -12,4 +12,8 @@ path = "src/roman_to_integer/main.rs"
 name = "palindrome_linked_list"
 path = "src/palindrome_linked_list/main.rs"
 
+[[bin]]
+name = "palindrome_number"
+path = "src/palindrome_number/main.rs"
+
 [dependencies]
