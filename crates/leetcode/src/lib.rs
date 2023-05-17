@@ -10,4 +10,5 @@ pub mod n0066_plus_one;
 pub mod n0069_sqrtx;
 pub mod n0070_climbing_stairs;
 pub mod n0088_merge_sorted_array;
+pub mod n0094_binary_tree_inorder_traversal;
 pub mod n0234_palindrome_linked_list;
