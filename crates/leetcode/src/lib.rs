@@ -13,4 +13,5 @@ pub mod n0088_merge_sorted_array;
 pub mod n0094_binary_tree_inorder_traversal;
 pub mod n0101_symmetric_tree;
 pub mod n0104_maximum_depth_of_binary_tree;
+pub mod n0108_convert_sorted_array_to_binary_search_tree;
 pub mod n0234_palindrome_linked_list;
