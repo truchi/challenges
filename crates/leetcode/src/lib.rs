@@ -20,4 +20,5 @@ pub mod n0125_valid_palindrome;
 pub mod n0136_single_number;
 pub mod n0169_majority_element;
 pub mod n0171_excel_sheet_column_number;
+pub mod n0190_reverse_bits;
 pub mod n0234_palindrome_linked_list;
