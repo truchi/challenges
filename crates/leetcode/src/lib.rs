@@ -17,4 +17,5 @@ pub mod n0108_convert_sorted_array_to_binary_search_tree;
 pub mod n0118_pascals_triangle;
 pub mod n0121_best_time_to_buy_and_sell_stock;
 pub mod n0125_valid_palindrome;
+pub mod n0136_single_number;
 pub mod n0234_palindrome_linked_list;
