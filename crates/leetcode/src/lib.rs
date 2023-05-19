@@ -23,4 +23,5 @@ pub mod n0171_excel_sheet_column_number;
 pub mod n0190_reverse_bits;
 pub mod n0191_number_of_1_bits;
 pub mod n0206_reverse_linked_list;
+pub mod n0217_contains_duplicate;
 pub mod n0234_palindrome_linked_list;
