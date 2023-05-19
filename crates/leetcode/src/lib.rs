@@ -27,3 +27,4 @@ pub mod n0217_contains_duplicate;
 pub mod n0242_valid_anagram;
 pub mod n0268_missing_number;
 pub mod n0283_move_zeroes;
+pub mod n0326_power_of_three;
