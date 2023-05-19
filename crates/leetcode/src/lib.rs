@@ -28,3 +28,4 @@ pub mod n0242_valid_anagram;
 pub mod n0268_missing_number;
 pub mod n0283_move_zeroes;
 pub mod n0326_power_of_three;
+pub mod n0344_reverse_string;
