@@ -26,3 +26,4 @@ pub mod n0206_reverse_linked_list;
 pub mod n0217_contains_duplicate;
 pub mod n0242_valid_anagram;
 pub mod n0268_missing_number;
+pub mod n0283_move_zeroes;
