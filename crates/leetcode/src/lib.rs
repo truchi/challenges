@@ -30,3 +30,4 @@ pub mod n0283_move_zeroes;
 pub mod n0326_power_of_three;
 pub mod n0344_reverse_string;
 pub mod n0350_intersection_of_two_array_ii;
+pub mod n0387_first_unique_character_in_a_string;
